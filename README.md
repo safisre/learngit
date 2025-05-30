@@ -1,4 +1,4 @@
 # learngit
-GIT repo for my self-learning DevOps Journey
+GIT repo for learning GIT - DevOps Journey
 <br>
-Author: Safi Choudhury
+Author: xops Guru
